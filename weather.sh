@@ -1,3 +1,3 @@
 #!/bin/bash
 
-~/weather_app/tweet_the_weather.py;
+~/weather_app/tweet_the_weather.py
