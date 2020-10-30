@@ -2,7 +2,6 @@
 
 from twython import Twython
 import requests
-#import re
 from datetime import datetime
 import json
 from auth import (
